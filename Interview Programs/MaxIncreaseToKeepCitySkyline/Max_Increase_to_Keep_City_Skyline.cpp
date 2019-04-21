@@ -98,7 +98,6 @@ private:
 	}
 };
 
-
 int main() {
 	int sum;
 	Solution s;

@@ -34,5 +34,3 @@ int main() {
 	auto answer2 = sol.numJewelsInStones("z", "ZZ");
 	std::cout << "Output: " << answer2 << "\n";
 }
-
-![program-execution](images/output.png)

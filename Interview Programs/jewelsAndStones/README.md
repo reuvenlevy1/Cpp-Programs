@@ -19,4 +19,4 @@ Note:
 S and J will consist of letters and have length at most 50.
 The characters in J are distinct.
 
-![program-execution](images/output.png)
+![program-execution](images/Jewels and Stones.png)
